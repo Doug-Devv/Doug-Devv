@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hey there! I'm Doug, a 15 Year Old FiveM developer with big dreams of flying high — literally. I’m passionate about softwares for FiveM experiences, but my ultimate goal is to become a pilot or join the U.S. Air Force. When I’m not coding, you’ll catch me exploring aviation, perfecting my scripts, or daydreaming about soaring through the skies. ✈️
+
+Currently crafting awesome FiveM resources for $0 (but I wouldn’t say no to a gig 
 
 <!--
-**Doug-Devv/Doug-Devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Doug-Devv/Doug-Devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
