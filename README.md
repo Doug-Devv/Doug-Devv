@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<b>Hey there! I'm Doug, a 15-year-old FiveM developer with big dreams of flying high—literally. I’m passionate about creating software for FiveM experiences, but my ultimate goal is to become a pilot or join the U.S. Air Force. When I’m not coding, you’ll catch me exploring aviation, perfecting my scripts, or daydreaming about soaring through the skies. ✈️</b>
+<b>Hey, I’m Doug! I’m 15 and a FiveM developer, always working on new scripts and looking for ways to make cool experiences. I’m really passionate about software development and dream of landing a solid job in tech that lets me live comfortably and do what I love every day. When I’m not coding, you’ll probably catch me geeking out over new tech trends or just brainstorming ways to improve my skills. My ultimate goal is to build a career that gives me both stability and the chance to keep growing in the field.</b>
 </p>
 
 ---
